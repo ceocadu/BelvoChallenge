@@ -1,0 +1,14 @@
+html,
+body {
+  font-family: system-ui;
+  background: #535353;
+  color: black;
+  font-size: 36px;
+}
+
+#demo-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
